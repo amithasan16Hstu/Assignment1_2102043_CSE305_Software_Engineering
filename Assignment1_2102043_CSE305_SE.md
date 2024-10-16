@@ -116,7 +116,7 @@ Key features identified from stakeholder requirements include:
 ## Requirement Elicitation
 ### Requirement Elicitation Technique Apply(Survey/Questionnaire)
  -  Survey(Close-Ended) Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
-### Survey Result
+### **Survey Result**
 ![Picture1](https://github.com/user-attachments/assets/e36874d1-7210-43e4-86c3-3ea3883b387a)
 ## User Role in University
 ![Question1](https://github.com/user-attachments/assets/5ec58533-0626-4f61-8df1-35ed0a7f07c9)
@@ -155,6 +155,7 @@ Outline of high-level architecture including backend (student information, trans
 ---
 
 ## Development (Iterations/Sprints)
+
 ![photo_2024-10-16_07-38-49](https://github.com/user-attachments/assets/590cd70b-6ed4-489d-8e24-6fe70e641a8a)
 - **Sprint 1**: Basic student login & authentication using secure methods (e.g., OAuth, JWT)
 - **Sprint 2**: Transcript request form development
