@@ -66,7 +66,6 @@ In today's fast-paced digital world, efficient academic services are crucial to 
 ## Project Vision and Planning
 ![photo_2024-10-16_20-19-38](https://github.com/user-attachments/assets/92649823-a2d2-4014-997b-7d1530c38f52)
 ## Fig 2.1 Step by Step Planing for SDLC
----
 
 ### 2.1 Requirement Engineering
 
@@ -84,7 +83,7 @@ Key features identified from stakeholder requirements include:
 - Notifications for students (via email/SMS)
 - Administrator control panel for managing requests
 
----
+
 
 ## 2.3 User Requirements and System Requirements
 
@@ -139,6 +138,8 @@ Key features identified from stakeholder requirements include:
 ## Fig 2.10 Survey Question-7
 ![Question8](https://github.com/user-attachments/assets/796904ab-d91a-4bde-81c7-b0b054aad5e0)
 ## Fig 2.11 Survey Question-8
+
+--- 
 
 ## Design and Architecture
 
@@ -234,6 +235,7 @@ The development of an online academic transcript distribution system for HSTU us
 
 ![photo_2024-10-16_07-43-17](https://github.com/user-attachments/assets/595760a3-21e4-47b9-a411-664e3ab9bc17)
 ## Fig 9.1 Suggested Software Development
+--- 
 
 ## References
 - Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
