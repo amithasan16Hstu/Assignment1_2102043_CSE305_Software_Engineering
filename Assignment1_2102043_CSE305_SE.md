@@ -32,6 +32,26 @@ Dinajpur-5200
 - [Conclusion](#conclusion)
 - [References](#references)
 
+## Figures
+- Project Goals/Objectives Triangle
+- All types of Feasibility Study
+- User role in University
+- Question-1
+- Question-2
+- Question-3
+- Question-4
+- Question-5
+- Question-6
+- Question-7
+- Question-8
+- ER Diagram for System
+- Sprint Serial
+- Testing Phase
+- Suggested Software Development
+
+## Tables
+ - Complexity
+
 ---
 
 ## Introduction
@@ -40,6 +60,7 @@ In today's fast-paced digital world, efficient academic services are crucial to 
 
 ![photo_2024-10-16_07-28-30](https://github.com/user-attachments/assets/078d94db-1793-4441-9bc8-6d358efc7423)
 ## Project Goals/Objective Triangle
+---
 
 ## Project Vision and Planning
 
