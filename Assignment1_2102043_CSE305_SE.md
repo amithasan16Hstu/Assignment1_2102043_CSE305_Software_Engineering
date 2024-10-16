@@ -1,7 +1,7 @@
 
 # HSTU Online Academic Transcript Distribution System
 
-## Project Report
+## Level-3 Semester-I Project Report
 **Course Code**: CSE 305  
 **Course Title**: Software Engineering  
 
@@ -179,6 +179,13 @@ Outline of high-level architecture including backend (student information, trans
 
 - Monitor system performance, fix bugs, and release updates regularly.
 - Address user feedback to improve the system.
+
+##  **Time and Space Complexity (Approximately):**
+
+| **Time Complexity**  | **O(n), where n is the number of students or transcript requests.** |
+|----------------------|---------------------------------------------------------------------|
+| **Space Complexity** | **O(n), where n represents the number of students, transcript requests, or blockchain entries.** |
+
 
 ---
 
