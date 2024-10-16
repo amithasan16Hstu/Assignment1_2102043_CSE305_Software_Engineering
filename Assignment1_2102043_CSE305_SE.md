@@ -45,6 +45,7 @@ In today's fast-paced digital world, efficient academic services are crucial to 
 ### Requirement Engineering
 
 #### Feasibility Study
+![photo_2024-10-16_07-32-55](https://github.com/user-attachments/assets/761a6b05-92f4-4982-8b91-c4b92ab8de8c)
 Feasibility studies were carried out in all domains, including technical, economic, and operational aspects.
 
 #### Product Backlog Creation
