@@ -98,8 +98,22 @@ Key features identified from stakeholder requirements include:
 ### Survey Result
 ![Picture1](https://github.com/user-attachments/assets/e36874d1-7210-43e4-86c3-3ea3883b387a)
 ## User Role in University
-
-
+![Question1](https://github.com/user-attachments/assets/5ec58533-0626-4f61-8df1-35ed0a7f07c9)
+## Survey Question-1
+![Question2](https://github.com/user-attachments/assets/be8e8970-6559-44c6-8afa-f07620b87033)
+## Survey Question-2
+![Question3](https://github.com/user-attachments/assets/9a3e15e6-ebc2-4a61-8e25-6591ff096961)
+## Survey Question-3
+![Queston4](https://github.com/user-attachments/assets/4a5e5dd3-b8ee-4708-800e-3e09df78730d)
+## Survey Question-4
+![Question5](https://github.com/user-attachments/assets/4fb160e0-75dc-4b3f-a62e-275531ce92eb)
+## Survey Question-5
+![Question6](https://github.com/user-attachments/assets/ce5cd078-80c5-41f6-a228-06e6f0eb1a0b)
+## Survey Question-6
+![Question7](https://github.com/user-attachments/assets/ec9219cc-cbfc-41eb-9d3b-d4d726c1dcd7)
+## Survey Question-7
+![Question8](https://github.com/user-attachments/assets/796904ab-d91a-4bde-81c7-b0b054aad5e0)
+## Survey Question-8
 
 ## Design and Architecture
 
@@ -181,6 +195,7 @@ Outline of high-level architecture including backend (student information, trans
 The development of an online academic transcript distribution system for HSTU using the Agile SDLC offers a solution that is both efficient and user-friendly. The iterative nature of Agile ensures continuous improvement and adaptability to evolving needs. By automating the process, the system saves time for both students and administrative staff, while ensuring the accuracy and security of academic records.
 
 ![photo_2024-10-16_07-43-17](https://github.com/user-attachments/assets/595760a3-21e4-47b9-a411-664e3ab9bc17)
+## Suggested Software Development
 
 ## References
 - Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
