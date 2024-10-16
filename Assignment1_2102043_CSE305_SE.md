@@ -118,6 +118,7 @@ Outline of high-level architecture including backend (student information, trans
 ---
 
 ## Testing and Feedback
+![photo_2024-10-16_07-41-05](https://github.com/user-attachments/assets/2094cacc-93cf-4bea-a2e4-33d2301514f5)
 
 ### Unit Testing
 - Test student authentication, transcript request form, admin dashboard, and payment gateway.
