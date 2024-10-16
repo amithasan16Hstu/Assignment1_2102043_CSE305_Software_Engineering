@@ -107,7 +107,7 @@ Outline of high-level architecture including backend (student information, trans
 ---
 
 ## Development (Iterations/Sprints)
-
+![photo_2024-10-16_07-38-49](https://github.com/user-attachments/assets/590cd70b-6ed4-489d-8e24-6fe70e641a8a)
 - **Sprint 1**: Basic student login & authentication using secure methods (e.g., OAuth, JWT)
 - **Sprint 2**: Transcript request form development
 - **Sprint 3**: Admin dashboard for managing requests
