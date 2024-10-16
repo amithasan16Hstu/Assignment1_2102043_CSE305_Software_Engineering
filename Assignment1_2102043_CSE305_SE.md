@@ -39,6 +39,7 @@ Dinajpur-5200
 In today's fast-paced digital world, efficient academic services are crucial to a university's operations. The need for digitalization of academic transcripts is increasingly becoming essential for universities. This project involves designing and implementing an online system to automate and streamline the distribution of academic transcripts at Hajee Mohammad Danesh Science and Technology University (HSTU). The system is developed using the Agile Software Development Life Cycle (SDLC) to ensure flexibility, transparency, and continuous improvement during the development process.
 
 ![photo_2024-10-16_07-28-30](https://github.com/user-attachments/assets/078d94db-1793-4441-9bc8-6d358efc7423)
+## Project Goals/Objective Triangle
 
 ## Project Vision and Planning
 
@@ -46,6 +47,7 @@ In today's fast-paced digital world, efficient academic services are crucial to 
 
 #### Feasibility Study
 ![photo_2024-10-16_07-32-55](https://github.com/user-attachments/assets/761a6b05-92f4-4982-8b91-c4b92ab8de8c)
+## All types of Feasibility Study
 Feasibility studies were carried out in all domains, including technical, economic, and operational aspects.
 
 #### Product Backlog Creation
@@ -90,9 +92,16 @@ Key features identified from stakeholder requirements include:
 - Compliance with data protection standards (e.g., GDPR)
 - Usability for both students and admins
 
----
+## Requirement Elicitation
+### Requirement Elicitation Technique Apply(Survey/Questionnaire)
+ -  Survey(Close-Ended) Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
+### Survey Result
 
 ## Design and Architecture
+
+![Screenshot (415)](https://github.com/user-attachments/assets/2a8ca0a2-3b13-4b80-bdd3-a072b8cfdb7b)
+## ER Diagram for System
+
 
 ### Technology Stack
 - **Frontend**: React.js, Vue.js
@@ -170,6 +179,7 @@ The development of an online academic transcript distribution system for HSTU us
 ![photo_2024-10-16_07-43-17](https://github.com/user-attachments/assets/595760a3-21e4-47b9-a411-664e3ab9bc17)
 
 ## References
+- Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
 - Sommerville, Ian. *Software Engineering* (9th Edition)
 - Geeks for Geeks, [Software Engineering Requirements Engineering Process](https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/)
 - LucidChart, [Designing Website](https://lucid.app)
