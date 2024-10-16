@@ -96,6 +96,10 @@ Key features identified from stakeholder requirements include:
 ### Requirement Elicitation Technique Apply(Survey/Questionnaire)
  -  Survey(Close-Ended) Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
 ### Survey Result
+![Picture1](https://github.com/user-attachments/assets/e36874d1-7210-43e4-86c3-3ea3883b387a)
+## User Role in University
+
+
 
 ## Design and Architecture
 
