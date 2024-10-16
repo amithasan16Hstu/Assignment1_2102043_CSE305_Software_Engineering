@@ -38,7 +38,7 @@ Dinajpur-5200
 
 In today's fast-paced digital world, efficient academic services are crucial to a university's operations. The need for digitalization of academic transcripts is increasingly becoming essential for universities. This project involves designing and implementing an online system to automate and streamline the distribution of academic transcripts at Hajee Mohammad Danesh Science and Technology University (HSTU). The system is developed using the Agile Software Development Life Cycle (SDLC) to ensure flexibility, transparency, and continuous improvement during the development process.
 
----
+![photo_2024-10-16_07-28-30](https://github.com/user-attachments/assets/078d94db-1793-4441-9bc8-6d358efc7423)
 
 ## Project Vision and Planning
 
