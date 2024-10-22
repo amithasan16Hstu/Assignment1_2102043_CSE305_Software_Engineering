@@ -206,6 +206,61 @@ Outline of high-level architecture including backend (student information, trans
 ### 5.6 Regression Testing
 - Re-run all tests after system updates or new feature additions.
 
+### 5.7 Test Cases
+
+### 5.7.1 Student Authentication
+- Tester: Amit
+- Test Date: 2024-08-05
+- Objective: Verify if student can log in securely using valid credentials.
+
+## Table 5.1 Test Case 1
+
+| **Test ID** | **Pre-Condition**                                                                                   | **Steps**                                                                                                                                       | **Test I/P**                              | **Test Outcome**                                            | **Actual Result** | **Pass** |
+|-------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------------------|-------------------|----------|
+| T101        | The student must be registered with a valid university-issued ID and credentials.                     | 1. Open the login page. <br> 2. Enter a valid university-issued ID and password. <br> 3. Click on the login button.                            | Username: 2102043 <br> Password: 1234     | The student should be logged in and redirected to their dashboard. | Logged in          | Pass     |
+
+### 5.7.2 Transcript Request
+- Tester: Amit
+- Test Date: 2024-09-10
+- Objective: Test if a student can request a transcript successfully.
+  ## Table 5.2 Test Case 2
+
+| **Test ID** | **Pre-Condition**                                      | **Steps**                                                                                                               | **Test I/P**                                  | **Test Outcome**                                             | **Actual Result**          | **Pass** |
+|-------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------|----------------------------|----------|
+| T102        | The student must be logged into their account.          | 1. Navigate to the transcript request page. <br> 2. Fill in the required details (graduation year, number of copies, etc.). <br> 3. Submit the request. | Username: 2102043 <br> Session: 2021 <br> Number of copies: 2 | The request should be submitted, and the student should receive a confirmation message. | Submitted successfully     | Pass     |
+### 5.7.3 Admin Approval/Denial
+- Tester: Amit
+- Test Date: 2024-09-22
+- Objective: Verify if an admin can approve or deny transcript requests.
+  ## Table 5.3 Test Case 3
+
+| **Test ID** | **Pre-Condition**                                     | **Steps**                                                                                                                                  | **Test I/P**                                   | **Test Outcome**                                              | **Actual Result**  | **Pass** |
+|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|----------------------------------------------------------------|--------------------|----------|
+| T103        | The admin must be logged into the dashboard.           | 1. Navigate to the request management page. <br> 2. Select a pending request. <br> 3. Approve or deny the request.                         | Admin ID: Admin001 <br> Request ID: TRQ-123 <br> Action: Approve/Reject | The system should update the request status and notify the student. | Notify status       | Pass     |
+
+### 5.7.4 Payment Processing
+- Tester: Amit
+- Test Date: 2024-09-25
+- Objective: Verify if an admin can approve or deny transcript requests.
+  ## Table 5.4 Test Case 4
+
+| **Test ID** | **Pre-Condition**                                                | **Steps**                                                                                                           | **Test I/P**                                        | **Test Outcome**                                                        | **Actual Result**           | **Pass** |
+|-------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|-----------------------------|----------|
+| T104        | The payment gateway must be integrated, and the student must have a valid payment method. | 1. Submit a transcript request that requires a fee. <br> 2. Enter payment details and submit the payment.          | Request ID: TRQ-123 <br> Payment Method: Mobile Banking/Card <br> Amount: 10 | The payment should be processed successfully, and the request status should be updated. | Payment successfully | Pass     |
+
+### 5.7.5 Transcript Download
+- Tester: Amit 
+- Test Date: 2024-10-22
+- Objective: Verify if an admin can approve or deny transcript requests.
+  ## Table 5.5 Test Case 5
+
+| **Test ID** | **Pre-Condition**                                                | **Steps**                                                                                                           | **Test I/P**                                        | **Test Outcome**                                                        | **Actual Result**           | **Pass** |
+|-------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|-----------------------------|----------|
+| T104        | The payment gateway must be integrated, and the student must have a valid payment method. | 1. Submit a transcript request that requires a fee. <br> 2. Enter payment details and submit the payment.          | Request ID: TRQ-123 <br> Payment Method: Mobile Banking/Card <br> Amount: 10 | The payment should be processed successfully, and the request status should be updated. | Payment successfully | Pass     |
+
+
+
+
 ---
 
 ## Deployment
