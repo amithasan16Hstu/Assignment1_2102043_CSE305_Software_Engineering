@@ -306,7 +306,7 @@ Outline of high-level architecture including backend (student information, trans
 The development of an online academic transcript distribution system for HSTU using the Agile SDLC offers a solution that is both efficient and user-friendly. The iterative nature of Agile ensures continuous improvement and adaptability to evolving needs. By automating the process, the system saves time for both students and administrative staff, while ensuring the accuracy and security of academic records.
 
 ![photo_2024-10-16_07-43-17](https://github.com/user-attachments/assets/595760a3-21e4-47b9-a411-664e3ab9bc17)
-## Fig 9.1 Suggested Software Development
+## Fig 9.1 Gantt Chart
 --- 
 
 ## References
