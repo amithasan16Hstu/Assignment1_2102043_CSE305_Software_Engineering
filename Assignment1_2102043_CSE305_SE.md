@@ -48,7 +48,7 @@ Dinajpur-5200
 - ER Diagram for System
 - Sprint Serial
 - Testing Phase
-- Suggested Software Development
+- Gantt Chart
 
 ## Tables
  - Test Case 1
