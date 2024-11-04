@@ -33,30 +33,31 @@ Dinajpur-5200
 - [References](#references)
 
 ## Figures
-- Project Goals/Objectives Triangle
-- Step by Step Planing for SDLC
-- All types of Feasibility Study
-- User role in University
-- Question-1
-- Question-2
-- Question-3
-- Question-4
-- Question-5
-- Question-6
-- Question-7
-- Question-8
-- ER Diagram for System
-- Sprint Serial
-- Testing Phase
-- Gantt Chart
+- [Fig 1.1 Project Goals/Objectives Triangle](#fig-11-project-goalsobjectives-triangle)
+- [Fig 2.1 Step by Step Planning for SDLC](#fig-21-step-by-step-planning-for-sdlc)
+- [Fig 2.2 All types of Feasibility Study](#fig-22-all-types-of-feasibility-study)
+- [Fig 2.3 User Role in University](#fig-23-user-role-in-university)
+- [Fig 2.4 Survey Question-1](#fig-24-survey-question-1)
+- [Fig 2.5 Survey Question-2](#fig-25-survey-question-2)
+- [Fig 2.6 Survey Question-3](#fig-26-survey-question-3)
+- [Fig 2.7 Survey Question-4](#fig-27-survey-question-4)
+- [Fig 2.8 Survey Question-5](#fig-28-survey-question-5)
+- [Fig 2.9 Survey Question-6](#fig-29-survey-question-6)
+- [Fig 2.10 Survey Question-7](#fig-210-survey-question-7)
+- [Fig 2.11 Survey Question-8](#fig-211-survey-question-8)
+- [Fig 3.1 ER Diagram for System](#fig-31-er-diagram-for-system)
+- [Fig 4.1 Sprint Serial](#fig-41-sprint-serial)
+- [Fig 5.1 Testing Phase](#fig-51-testing-phase)
+- [Fig 9.1 Gantt Chart](#fig-91-gantt-chart)
 
 ## Tables
- - Test Case 1
- - Test Case 2
- - Test Case 3
- - Test Case 4
- - Test Case 5
- - Complexity
+- [Table 5.1 Test Case 1](#table-51-test-case-1)
+- [Table 5.2 Test Case 2](#table-52-test-case-2)
+- [Table 5.3 Test Case 3](#table-53-test-case-3)
+- [Table 5.4 Test Case 4](#table-54-test-case-4)
+- [Table 5.5 Test Case 5](#table-55-test-case-5)
+- [Table 7.1 Complexity](#table-71-complexity)
+
 
 ---
 
