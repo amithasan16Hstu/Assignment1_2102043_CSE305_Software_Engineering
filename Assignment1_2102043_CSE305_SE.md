@@ -33,7 +33,8 @@ Dinajpur-5200
 - [References](#references)
 
 ## Figures
-- [Fig 1.1 Project Goals/Objectives Triangle](#fig-11-project-goalsobjectives-triangle)
+- [Fig 1.1 Graphical Overview of Proposed System](#fig-11-graphical-overview-of-proposed-system)
+- [Fig 1.2 Project Goals/Objectives Triangle](#fig-12-project-goalsobjectives-triangle)
 - [Fig 2.1 Step by Step Planning for SDLC](#fig-21-step-by-step-planning-for-sdlc)
 - [Fig 2.2 All types of Feasibility Study](#fig-22-all-types-of-feasibility-study)
 - [Fig 2.3 User Role in University](#fig-23-user-role-in-university)
@@ -77,8 +78,10 @@ By streamlining transcript distribution, this system is expected to save time an
 
 In today's fast-paced digital world, efficient academic services are crucial to a university's operations. The need for digitalization of academic transcripts is increasingly becoming essential for universities. This project involves designing and implementing an online system to automate and streamline the distribution of academic transcripts at Hajee Mohammad Danesh Science and Technology University (HSTU). The system is developed using the Agile Software Development Life Cycle (SDLC) to ensure flexibility, transparency, and continuous improvement during the development process.
 
+![Transcript](https://github.com/user-attachments/assets/7075750b-de95-48a0-a691-3f477ae4a69f)
+## Fig 1.1 Graphical Overview of Proposed System 
 ![photo_2024-10-16_07-28-30](https://github.com/user-attachments/assets/078d94db-1793-4441-9bc8-6d358efc7423)
-## Fig 1.1 Project Goals/Objective Triangle
+## Fig 1.2 Project Goals/Objective Triangle
 ---
 
 ## Project Vision and Planning
